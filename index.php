@@ -1,2 +1,2 @@
 <h1>selamat datang</h1>
-<p>Nama kamu tamami kan?</p>
+<p>Nama kamu vita karenina kan?</p>
