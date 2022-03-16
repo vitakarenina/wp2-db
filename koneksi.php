@@ -3,7 +3,7 @@ $conn_str = "john.db.elephantsql.com " .
     "port=5432 " .
     "user=eclhnvoy " .
     "dbname=eclhnvoy " .
-    "password=MYbuLsWzRx_UxIHtxgWw-QbAFipURvWH;
+    "password=MYbuLsWzRx_UxIHtxgWw-QbAFipURvWH";
 $conn = pg_connect($conn_str);
 
 if($conn) {
