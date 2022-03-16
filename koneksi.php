@@ -1,5 +1,5 @@
 <?php
-$conn_str = "john.db.elephantsql.com (john-01) " .
+$conn_str = "john.db.elephantsql.com " .
     "port=5432 " .
     "user=eclhnvoy " .
     "dbname=eclhnvoy " .
