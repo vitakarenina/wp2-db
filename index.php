@@ -31,6 +31,11 @@ $result = pg_query($sql);
 echo '<a href="hapus.php?nim=' . $row->nim . '">Hapus</a>'
 ?>
             </td>
+            <td>
+<?php
+echo '<a href="ubah.php?nim=' . $row->nim . '">Ubah</a>'
+?>
+            </td>
         </tr>
 
 <?php
